@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vehement0
-- 👀 I’m interested in Python, Kali Linux, Pentesting etc.
+- 👀 I’m interested in Python, Kali Linux, Pentesting, Java, Kotlin, Android Studio etc.
 - 🌱 I’m currently learning Python and Cyber Security
 - 💞️ I’m looking to collaborate on TA2ASC
 - 📫 How to reach me on instagram: @nebisyn and on Discord: Vehement0#8640
